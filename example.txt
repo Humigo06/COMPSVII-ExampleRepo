@@ -4,5 +4,4 @@ My Grocery List
 - Eggs
 - Butter
 - Sugar
-- Lemons
 - Chocolate Milk
